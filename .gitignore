@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local test installs (should never be committed)
+*.local
+test-install/
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+
+# Sensitive (defense in depth — should never live here, but just in case)
+*.env
+.env*
+secrets.*
+*.pem
+*.key
+config
+
+# User's own trade journal / wiki data must never be committed here
+trade-journal.csv
+trade-journal.md
