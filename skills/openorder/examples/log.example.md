@@ -9,7 +9,7 @@
 
 ## [YYYY-MM-DD HH:MM] framework | Initial setup
 
-- **Trigger**: OpenOrder installer
+- **Trigger**: AlphaLoop installer (`openorder` skill)
 - **Files touched**: `INDEX.md`, `log.md`, `raw/README.md`
 - **Key**: Wiki bootstrapped. Three-layer structure ready. Awaiting first ingest.
 - **Raw source**: n/a

@@ -1,6 +1,6 @@
 # {Your Wiki Name}
 
-> **A persistent investment-research wiki maintained by AI agents via the [OpenOrder](https://github.com/realnaka/OpenOrder) skill.**
+> **A persistent investment-research wiki maintained by AI agents via the [AlphaLoop](https://github.com/realnaka/alphaloop) `openorder` skill.**
 
 ## Quick links
 
@@ -16,7 +16,7 @@
 
 ## How to use
 
-1. **Open any AI agent** with OpenOrder installed (Claude Code, Cursor, Codex, Hermes, OpenCode, OpenClaw, etc.)
+1. **Open any AI agent** with AlphaLoop installed (Claude Code, Cursor, Codex, Hermes, OpenCode, OpenClaw, etc.)
 2. **Just talk normally** — say a ticker name, paste a news URL, ask a thesis question
 3. The agent will auto-read this wiki, answer using it, and write back any new insights
 
@@ -36,8 +36,8 @@ gh repo create my-wiki --private --source . --push
 git clone git@github.com:{you}/my-wiki.git ~/openorder
 ```
 
-Pair with the OpenOrder skill installed there and your knowledge follows you everywhere.
+Pair with AlphaLoop installed there and your knowledge follows you everywhere.
 
 ---
 
-*This README was created by `OpenOrder install.sh`. Edit freely — your AI agent will keep it relevant.*
+*This README was seeded by AlphaLoop's `install.sh` (from `skills/openorder/examples/wiki-README.example.md`). Edit freely — your AI agent will keep it relevant.*
